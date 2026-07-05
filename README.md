@@ -8,7 +8,7 @@ Drive, and RaceIQ records every lap, breaks it down corner by corner, tells you 
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-8b5cf6?style=flat-square)
 ![Assetto Corsa Competizione](https://img.shields.io/badge/ACC-supported-a855f7?style=flat-square)
-![Le Mans Ultimate](https://img.shields.io/badge/Le%20Mans%20Ultimate-in-progress-a855f7?style=flat-square)
+![Le Mans Ultimate](https://img.shields.io/badge/Le%20Mans%20Ultimate-work%20in%20progress-eab308?style=flat-square)
 ![Free](https://img.shields.io/badge/price-free-22c55e?style=flat-square)
 
 <br/>
@@ -116,7 +116,7 @@ Already installed? Do nothing — RaceIQ updates itself and installs the newest 
 ## Getting started
 
 1. Open the **RANKS** tab and create an account (email + password).
-2. Hop into **Assetto Corsa Competizione** (Le Mans Ultimate also supported) and drive a clean lap — it uploads automatically and appears on the board.
+2. Hop into **Assetto Corsa Competizione** and drive a clean lap — it uploads automatically and appears on the board. *(Le Mans Ultimate support is in progress.)*
 3. Open the **FRIENDS** panel, share your code, and add a friend to compare laps and setups head-to-head.
 
 <div align="center">
@@ -128,7 +128,7 @@ Already installed? Do nothing — RaceIQ updates itself and installs the newest 
 ## Requirements
 
 - **Windows 10 / 11** (64-bit)
-- For live capture: **Assetto Corsa Competizione** or **Le Mans Ultimate**
+- For live capture: **Assetto Corsa Competizione** *(Le Mans Ultimate — work in progress)*
 
 Local analysis needs nothing else. The leaderboard and setup-sharing need a free account.
 
