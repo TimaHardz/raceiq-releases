@@ -106,7 +106,7 @@ The app updates itself in the background, so you're always on the latest build. 
 ## Install
 
 1. Download the latest **`RaceIQ-Setup-x.y.z.exe`** from the [Releases](../../releases) section and run it. It installs per-user — **no admin needed**.
-2. Windows SmartScreen will warn because the app isn't code-signed yet — click **More info → Run anyway**. It's safe; signing is on the roadmap.
+2. Windows SmartScreen will warn because the app isn't code-signed — click **More info → Run anyway**. It's safe; signing is on the roadmap.
 3. Launch **RaceIQ** from the Start menu.
 
 Already installed? Do nothing — RaceIQ updates itself and installs the newest build on your next restart.
