@@ -8,7 +8,7 @@ Drive, and RaceIQ records every lap, breaks it down corner by corner, tells you 
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-8b5cf6?style=flat-square)
 ![Assetto Corsa Competizione](https://img.shields.io/badge/ACC-supported-a855f7?style=flat-square)
-![Le Mans Ultimate](https://img.shields.io/badge/Le%20Mans%20Ultimate-supported-a855f7?style=flat-square)
+![Le Mans Ultimate](https://img.shields.io/badge/Le%20Mans%20Ultimate-in-progress-a855f7?style=flat-square)
 ![Free](https://img.shields.io/badge/price-free-22c55e?style=flat-square)
 
 <br/>
